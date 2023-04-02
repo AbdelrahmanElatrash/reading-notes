@@ -11,7 +11,7 @@ also we can git information about what we learned in easer way
 
 ## Code 401 - Advanced Software Development
 
-| Syntax | Description | link |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| #| title | description  | url link |
+|-:|:-----:|:------------:|:---------|
+| 1|        |             |          |
+
