@@ -13,5 +13,5 @@ also we can git information about what we learned in easer way
 
 | #| title | description  | url link |
 |-:|:-----:|:------------:|:---------|
-| 1|sql database | complet task | [sql](https://github.com/AbdelrahmanElatrash/reading-notes/sql_database)|
+| 1|sql database | complet task | [sql](https://github.com/AbdelrahmanElatrash/reading-notes/tree/main/sql_database)|
 
