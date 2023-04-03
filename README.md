@@ -15,5 +15,5 @@ also we can git information about what we learned in easer way
 |-:|:-----:|:------------:|:---------|
 |1 |sql database | complet task | [sql](https://github.com/AbdelrahmanElatrash/reading-notes/tree/main/sql_database)|
 |2 |linux shel| som linux comand| [linux comand](https://github.com/AbdelrahmanElatrash/reading-notes/tree/main/terminal_comand)|
-|3 |readin class 1|about pain and Big O ,learn python|[pain and Big](https://github.com/AbdelrahmanElatrash/reading-notes/tree/main/Reading_class_1)|
-
+|3 |readin class 1|about pain and Big O ,learn python|[pain and Big](./sql_database/sql/)|
+|4 |Engineering Readings|to start on your career|[reading](./Engineering_Readings/Engineering_Readings.md)|
