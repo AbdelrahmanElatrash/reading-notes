@@ -17,3 +17,4 @@ also we can git information about what we learned in easer way
 |2 |linux shel| som linux comand| [linux comand](https://github.com/AbdelrahmanElatrash/reading-notes/tree/main/terminal_comand)|
 |3 |readin class 1|about pain and Big O ,learn python|[pain and Big](./sql_database/sql/)|
 |4 |Engineering Readings|to start on your career|[reading](./Engineering_Readings/Engineering_Readings.md)|
+|5 |Testing and Modules|learn about them|[readin](./testing_and_modules/reading.md) |
