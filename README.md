@@ -13,6 +13,7 @@ also we can git information about what we learned in easer way
 
 | #| title | description  | url link |
 |-:|:-----:|:------------:|:---------|
-| 1|sql database | complet task | [sql](https://github.com/AbdelrahmanElatrash/reading-notes/tree/main/sql_database)|
-|2 |linux shel| som linux comand| [linux comand](https://github.com/AbdelrahmanElatrash/reading-notes/tree/main/terminal_comand)|| 
+|1 |sql database | complet task | [sql](https://github.com/AbdelrahmanElatrash/reading-notes/tree/main/sql_database)|
+|2 |linux shel| som linux comand| [linux comand](https://github.com/AbdelrahmanElatrash/reading-notes/tree/main/terminal_comand)|
+|3 |readin class 1|about pain and Big O ,learn python|[pain and Big](https://github.com/AbdelrahmanElatrash/reading-notes/tree/main/Reading_class_1)|
 
