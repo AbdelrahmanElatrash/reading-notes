@@ -18,3 +18,4 @@ also we can git information about what we learned in easer way
 |3 |readin class 1|about pain and Big O ,learn python|[pain and Big](./sql_database/sql/)|
 |4 |Engineering Readings|to start on your career|[reading](./Engineering_Readings/Engineering_Readings.md)|
 |5 |Testing and Modules|learn about them|[readin](./testing_and_modules/reading.md) |
+|5 |Prep Your Mindset|learn technical skills and update it|[summary](./prep_your_mindset/prep_your_mindset.md)
