@@ -13,18 +13,18 @@ The read method reads the entire contents of a file and returns it as a string.
 
  
 >with open("file.txt", "r") as file:
->    content = file.read()
->    print(content)
+>-    content = file.read()
+>-    print(content)
 
 Python readline()
 The readline method reads a single line from a file and returns it as a string. This means that if you use readline, you can read the contents of a file line by line, which can be useful for processing large files that do not fit in memory.
 
  
 > with open("file.txt", "r") as file:
->    line = file.readline()
->    while line:
->         print(line.strip())
->         line = file.readline()
+>-    line = file.readline()
+>-    while line:
+>--         print(line.strip())
+>--         line = file.readline()
 
 In the above example, the while loop continues to read lines from the file until readline returns an empty string, indicating the end of the file. The strip method is used to remove the line terminator from each line.
 
@@ -35,8 +35,8 @@ You can see the difference of readline() and readlines() methods from the follow
 
  
 > with open("file.txt") as f:
->>    line = f.readline()
->>    print(line)# Prints the first line of the file
+>-    line = f.readline()
+>-    print(line)# Prints the first line of the file
 
 
 ## describe the concept of exception handling in Python.
