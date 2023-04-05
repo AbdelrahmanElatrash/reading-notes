@@ -11,11 +11,12 @@ also we can git information about what we learned in easer way
 
 ## Code 401 - Advanced Software Development python
 
-| #| title | description  | url link |
-|-:|:-----:|:------------:|:---------|
-|1 |sql database | complet task | [sql](https://github.com/AbdelrahmanElatrash/reading-notes/tree/main/sql_database)|
-|2 |linux shel| som linux comand| [linux comand](https://github.com/AbdelrahmanElatrash/reading-notes/tree/main/terminal_comand)|
-|3 |readin class 1|about pain and Big O ,learn python|[pain and Big](./sql_database/sql/)|
-|4 |Engineering Readings|to start on your career|[reading](./Engineering_Readings/Engineering_Readings.md)|
-|5 |Testing and Modules|learn about them|[readin](./testing_and_modules/reading.md) |
-|5 |Prep Your Mindset|learn technical skills and update it|[summary](./prep_your_mindset/prep_your_mindset.md)
+| #| title | url link |
+|-:|:-----:|:---------|
+|1 |sql database |  [sql](https://github.com/AbdelrahmanElatrash/reading-notes/tree/main/sql_database)|
+|2 |linux shel |  [linux comand](https://github.com/AbdelrahmanElatrash/reading-notes/tree/main/terminal_comand)|
+|3 |readin class 1|[pain and Big](./sql_database/sql/)|
+|4 |Engineering Readings|[reading](./Engineering_Readings/Engineering_Readings.md)|
+|5 |Testing and Modules|[readin](./testing_and_modules/reading.md) |
+|5 |Prep Your Mindset|[summary](./prep_your_mindset/prep_your_mindset.md)
+|6 |work with file python | [reading](./work_with_file_python/reading.md)
