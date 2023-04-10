@@ -20,4 +20,4 @@ also we can git information about what we learned in easer way
 |5 |Testing and Modules|[readin](./testing_and_modules/reading.md) |
 |5 |Prep Your Mindset|[summary](./prep_your_mindset/prep_your_mindset.md)
 |6 |work with file python | [reading](./work_with_file_python/reading.md)
-|67|python classes and object|[link](./classes_and_object/classes_and-object.md)
+|7|python classes and object|[link](./classes_and_object/classes_and-object.md)
