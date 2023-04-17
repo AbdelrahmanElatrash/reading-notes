@@ -10,6 +10,7 @@ Generating random numbers:
 To generate a random integer between a minimum and maximum value, you can use the randint() function:
 
  Generate a random integer between 1 and 10 (inclusive)
+
 `import random`
 
 `num = random.randint(1, 10)`
@@ -17,7 +18,9 @@ To generate a random integer between a minimum and maximum value, you can use th
 `print(num) # Output: a random integer between 1 and 10`
 
 
+
 To generate a random float between 0 and 1, you can use the random() function:
+
 `num = random.random()`
 
 To select a random item from a list, you can use the choice() function:
