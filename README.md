@@ -23,3 +23,4 @@ also we can git information about what we learned in easer way
 |7 |python classes and object|[link](./classes_and_object/classes_and-object.md)|
 |8 |linked_list |[linked_list](./linked_list/linked_list.md)|
 |9 |Ten Thousand Game 1|[Ten_Thousand_Game](./Ten_Thousand_Game/reading.md)
+|10|Ten Thousand 2 |[Python Scope](./Ten_Thousand_2/readin.md)

@@ -77,9 +77,9 @@ Singly linked lists are a fundamental data structure in computer science and are
 Reverse a linked list: This algorithm reverses the order of the nodes in a linked list. The time complexity of this algorithm is O(n), where n is the number of nodes in the list.
 python
 
-`
-def reverse_list(head):
+
+`def reverse_list(head):
     prev = None
     current = head
     while current is
-    `
+`
