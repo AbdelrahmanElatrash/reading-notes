@@ -22,4 +22,4 @@ also we can git information about what we learned in easer way
 |6 |work with file python | [reading](./work_with_file_python/reading.md)|
 |7 |python classes and object|[link](./classes_and_object/classes_and-object.md)|
 |8 |linked_list |[linked_list](./linked_list/linked_list.md)|
-|9 |Ten Thousand Game 1|[Ten_Thousand_Game](./Ten_Thousand_Game%20/reading.md)
+|9 |Ten Thousand Game 1|[Ten_Thousand_Game](./Ten_Thousand_Game/reading.md)
