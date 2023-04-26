@@ -24,3 +24,4 @@ also we can git information about what we learned in easer way
 |8 |linked_list |[linked_list](./linked_list/linked_list.md)|
 |9 |Ten Thousand Game 1|[Ten_Thousand_Game](./Ten_Thousand_Game/reading.md)
 |10|Ten Thousand 2 |[Python Scope](./Ten_Thousand_2/readin.md)
+|11|Ten Thousand 3|[List Comprehensions in Python](./Ten_Thousand_3/reading.md)
