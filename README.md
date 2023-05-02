@@ -25,3 +25,4 @@ also we can git information about what we learned in easer way
 |9 |Ten Thousand Game 1|[Ten_Thousand_Game](./Ten_Thousand_Game/reading.md)
 |10|Ten Thousand 2 |[Python Scope](./Ten_Thousand_2/readin.md)
 |11|Ten Thousand 3|[List Comprehensions in Python](./Ten_Thousand_3/reading.md)
+|12|Ten Thousand 4|[Dunder Methods and Statistics - Probability](./Ten_Thousand_4/Ten_Thousand_4.md)
