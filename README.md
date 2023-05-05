@@ -26,4 +26,5 @@ also we can git information about what we learned in easer way
 |10|Ten Thousand 2 |[Python Scope](./Ten_Thousand_2/readin.md)
 |11|Ten Thousand 3|[List Comprehensions in Python](./Ten_Thousand_3/reading.md)
 |12|Ten Thousand 4|[Dunder Methods and Statistics - Probability](./Ten_Thousand_4/Ten_Thousand_4.md)
-|12| Stacks and Queues|[ Stacks and Queues](./%20Stacks_and_Queues/reading.md)
+|13| Stacks and Queues|[ Stacks and Queues](./%20Stacks_and_Queues/reading.md)
+|14|Data Analysis|[ata_Analysis](./data_analysis/Data_Analysis.md)
