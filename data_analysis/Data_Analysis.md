@@ -64,8 +64,8 @@ Multi-dimensional arrays: You can create multi-dimensional arrays using nested l
 `print(arr2d)`
 
 Output:   
->[[1 2 3]
- [4 5 6]]
+>-[[1 2 3]
+ -[4 5 6]]
 
 Array attributes: You can access the shape, size, and data type of an array using the attributes shape, size, and dtype, respectively. For example:
 
@@ -75,9 +75,9 @@ Array attributes: You can access the shape, size, and data type of an array usin
 
 Output:
 
->(2, 3)
- 6
- int64
+>-(2, 3)
+ -6
+ -int64
 
 Indexing and slicing: You can access specific elements or subsets of an array using indexing and slicing. For example:
 
@@ -86,10 +86,10 @@ Indexing and slicing: You can access specific elements or subsets of an array us
 `print(arr2d[:, 1:])`
 
 Output:
->1
- 2
- [[2 3]
- [5 6]]
+>-1
+ -2
+ -[[2 3]
+ -[5 6]]
 
 
 Mathematical operations: NumPy provides a wide range of mathematical functions and operators for performing operations on arrays. For example:
