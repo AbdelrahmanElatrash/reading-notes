@@ -31,3 +31,4 @@ also we can git information about what we learned in easer way
 |15|Pandas in 10|[Pandas in 10](./Pandas/reading.md)|
 |16|Linear Regressions|[Linear Regressions](./Linear_Regressions/Linear_Regressions.md)|
 |17|Data Visualization|[Data Visualization](./Data_Visualization/readme.md)|
+|18|Trees|[Trees](./Trees/reading.md)|
