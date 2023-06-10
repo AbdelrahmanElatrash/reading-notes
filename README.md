@@ -34,4 +34,5 @@ also we can git information about what we learned in easer way
 |18|Trees|[Trees](./Trees/reading.md)|
 |19|serverles|[serverles](./serverles/reading.md)|
 |20|Web Scraping|[Web Scraping](./Web_Scraping/reading.md)|
+|21|Intro to Django|[reading link](./Intro_to_Django/rading.md)|
 
