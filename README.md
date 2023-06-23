@@ -37,4 +37,5 @@ also we can git information about what we learned in easer way
 |21|Intro to Django|[reading link](./Intro_to_Django/rading.md)|
 |22|Django Models|[reading](./Django_Models/reading.md)|
 |23|django form|[reading](./django_form/reading.md)|
+|24|hash table|[reading](./hash_table/reading.md)|
 
