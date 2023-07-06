@@ -40,4 +40,5 @@ also we can git information about what we learned in easer way
 |24|hash table|[reading](./hash_table/reading.md)|
 |25|Django restAPI|[reading](./django_rest/reading.md)
 |26|Permissions & Postgresql|[read](./Permissions_&_Postgresql/rading.md)|
+|27|Authentication & Production Server|[rading](./aut_and_production/reading.md)|
 
